@@ -1,0 +1,25 @@
+:root{
+    --color-bg-primary: #282A3A;
+    --color-bg-secondary: #abe4ff;
+    --color-bg-terciary: #000;
+    
+
+    --font-color-primary: #abe4ff;
+    --font-color-secondary: #ffabab;
+    --font-color-terciary: #686868;
+
+
+    --font-size-14: 0.875em;
+    --font-size-25: 1.563rem;
+    --font-size-50: 3.125rem;
+    --font-size-70: 4.375rem;
+    --font-size-96: 6rem;
+
+    --font-roboto: "Roboto", sans-serif;
+    --font-anton: "Anton SC", sans-serif;
+
+    --spacing-small: 8px;
+    --spacing-medium: 32px;
+    --logo-width: 200px;
+
+}
